@@ -3,7 +3,7 @@
 
 2. To run project, install RStudio. 
 
-3. Also install following packages by running "install.packages("<package_name>"):
+3. Also install following packages by running *install.packages("package_name")* :
 
   +  RCurl
   +  RJSONIO

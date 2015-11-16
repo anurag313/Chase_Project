@@ -12,7 +12,7 @@
   +  twitteR
   +  plyr
   
-4. run Chase_Twitter.Rmd with API keys and secrets inserted in right place.
+4. Run Chase_Twitter.Rmd with API keys and secrets inserted in right place.
 
-5. output would be Chase_Twitter.pdf
+5. Output would be Chase_Twitter.pdf
   

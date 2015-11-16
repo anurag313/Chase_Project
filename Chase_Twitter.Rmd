@@ -30,10 +30,10 @@ library(twitteR)
 # under the names Consumer key, Consumer secret, Access token, and
 # Access token secret respectively.
 
-consumerKey = '8jqqM7OlEk6Fkdnc0aGLjUtXM'
-consumerSecret = '8U61tPinhxbGRYJnCk257RUPNT0umxybwN0HVqrQwxuH3sfmEk'
-accessToken = '2198592541-R6BnXREHUn6SeMVI9w1fZPof4jpVnr41p1RNJ92'
-accessTokenSecret = 'aRp5f97FdrT9dXYTMZDtzw6CQPfHaLlHYNg3r79jOzkPs'
+consumerKey = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+consumerSecret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+accessToken = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+accessTokenSecret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 setup_twitter_oauth(consumerKey, consumerSecret, 
                     accessToken, accessTokenSecret)
 

@@ -4,12 +4,13 @@
 2. To run project, install RStudio. 
 
 3. Also install following packages by running "install.packages("<package_name>"):
-  i.   RCurl
-  ii.  RJSONIO
-  iii. digest
-  iv.  devtools
-  v.   twitteR
-  vi.  plyr
+
+  +  RCurl
+  +  RJSONIO
+  +  digest
+  +  devtools
+  +  twitteR
+  +  plyr
   
 4. run Chase_Twitter.Rmd with API keys and secrets inserted in right place.
 
